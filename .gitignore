@@ -3,3 +3,10 @@
 target/
 *.class
 TestMain.java
+
+*.swp
+
+bin/
+build/
+.gradle/
+gradle.properties
